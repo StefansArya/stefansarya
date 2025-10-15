@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**StefansArya/stefansarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a developer who likes JavaScript.<br>
+I signed all of my GitHub commit so you can verify my signature.
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+> If you want to contact me privately, please tell me where you found me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> [!NOTE]
+> If you find me somewhere else, make sure to verify me with my PGP or my wallet's public key.
+
+```sh
+$ curl -s https://github.com/stefansarya.gpg | gpg --import
+```
+
+<a target="_blank"><img src="https://img.shields.io/badge/Discord-StefansArya-676ae9"></a>
