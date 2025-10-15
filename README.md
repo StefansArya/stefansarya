@@ -16,3 +16,4 @@ $ curl -s https://github.com/stefansarya.gpg | gpg --import
 ```
 
 <a target="_blank"><img src="https://img.shields.io/badge/Discord-StefansArya-676ae9"></a>
+<a href="https://t.me/stefansarya" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40stefansarya-28a8ea"></a>
